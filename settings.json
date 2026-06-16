@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "minato",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "orewa_minato_-W-cOVc.aternos.me",
-    "port": 44601,
+    "ip": "Herobrinesmpkiimyy.aternos.me",
+    "port":42390,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "stay happy and stay friendly",
+        "don't hit me. respect minato 🙂‍↕️ "
       ]
     },
     "chat-log": true,
